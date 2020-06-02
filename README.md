@@ -10,3 +10,7 @@
 典型分析：
 - Hahn-Banach
 - Banach-SteinHaus
+
+#### 第二章：逼近论
+[笔记](approximation/note.md)
+
