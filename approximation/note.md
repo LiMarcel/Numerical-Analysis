@@ -8,5 +8,13 @@
 #### 第一节：有限维空间和基
 
 - 多项式空间$P_n$
-    - Legendre多项式空间
+    - Legendre多项式空间（正交）
+    - 切比雪夫多项式空间（关于权$\frac{1}{\sqrt{(1 - x^2)}}$正交）
+    - Lagrange
+    - Newton
+    - Shannon $S_n = span\{sinc(x - k)\}$ 
+      $sinc(t) = \frac{\sin \pi t}{\pi t}$
 - 三角函数空间$T_n$
+
+整体多项式：
+- 多项式空间：有限元、小波
